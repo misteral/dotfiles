@@ -6,4 +6,6 @@ abbr_add 'ga=git add'
 abbr_add 'gcm=git checkout master'
 abbr_add 'gco=git checkout'
 abbr_add 'gd=git diff'
-
+abbr_add 'be=bundle exec'
+abbr_add 'gb=git branch'
+abbr_add 'cdd=cd /data'
