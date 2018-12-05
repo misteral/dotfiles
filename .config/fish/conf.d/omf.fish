@@ -1,6 +1,6 @@
 set -gx JAVA_HOME "/usr/lib/jvm/java-8-oracle"
 
-set PATH $HOME/.rbenv/bin $PATH
+# set PATH $HOME/.rbenv/shims $PATH
 # Path to Oh My Fish install.
 set -q XDG_DATA_HOME
   and set -gx OMF_PATH "$XDG_DATA_HOME/omf"

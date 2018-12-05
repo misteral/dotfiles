@@ -9,7 +9,8 @@ alias s 'subl .'
 
 alias pgstart 'pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start'
 
-alias fmrelax 'mplayer -cache 800 "http://ic8.101.ru:8000/v13_1?userid=0&setst=28r2t8f0bgusnp17p0k50sb2g5&city=0"'
-alias fmnature 'mplayer -cache 800 "http://ic8.101.ru:8000/c19_1?userid=0&setst=b7bdcbql0rt7ap9e9qbk753ot2&tok=21111963qrfrVY2A%2Br3XLlkqadZ0pw%3D%3D3&city=0"'
-alias fmchillout 'mplayer -cache 800 "http://ic7.101.ru:8000/c15_3"'
-alias fmnashe 'mplayer -cache 800 'http://nashe1.hostingradio.ru/nashe-128.mp3''
+alias fmrelax 'mplayer -cache 2000 "http://ic7.101.ru:8000/a200"'
+alias fmnature 'mplayer -cache 2000 "http://ic8.101.ru:8000/c19_1?userid=0&setst=b7bdcbql0rt7ap9e9qbk753ot2&tok=21111963qrfrVY2A%2Br3XLlkqadZ0pw%3D%3D3&city=0"'
+alias fmchillout 'mplayer -cache 2000 "http://ic7.101.ru:8000/c15_3"'
+alias fmnashe 'mplayer -cache 2000 'http://nashe1.hostingradio.ru/nashe-128.mp3''
+alias fmneoclassic 'mplayer -cache 2000 "http://ic7.101.ru:8000/c7_47?userid=0&setst=9mr9ginlosflnlu3j43cduujc5&tok=04830335N0Tkm%2FjEeJKIuBd9tWNimw%3D%3D3&city=490"'
